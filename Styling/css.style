@@ -1,0 +1,15 @@
+h1{
+color:cadetblue;
+background-color: black;
+text-align:auto;
+}
+h4{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+h5{
+    color: midnightblue;
+    background-color: mediumaquamarine;
+    text-decoration: underline;
+}
